@@ -1,4 +1,4 @@
-Part 1a
+## Part 1a
 1. values added: 20
 2. final result: 20
 3. values added: 20
@@ -6,7 +6,7 @@ Part 1a
 5. Error, we are trying to reassign `result` while it's supposed to be a constant.
 6. Error, we are trying to reassign `result` while it's supposed to be a constant.
 
-Part 1b
+## Part 1b
 1. Line 12 prints out `3` because `i` keeps track of the element we are on in the array and at the end of the for loop, `i` is 3.
 2. Line 13 prints out `150`because at the last iteration of the loop, `discountedPrice` is calculated by taking the last element of 300 and multiplying it by (1-0.5).
 3. Line 14 prints out `150` because the last iteration of the loop, `finalPrice` stores the rounded value of 150, which got calculated using the last element of the array, 300.
